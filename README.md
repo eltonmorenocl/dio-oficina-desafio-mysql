@@ -25,7 +25,7 @@
 
 ##  Sobre o projeto
 
-Projeto lógico de banco de dados para o cenário de e-commerce.
+Projeto lógico de banco de dados para o cenário de Oficina.
 
 Criação do Script SQL para criação do esquema do banco de dados
 
