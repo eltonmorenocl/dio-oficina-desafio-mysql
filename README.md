@@ -3,10 +3,10 @@
 <p align="center"><i>Bootcamp DIO | Potência Tech powered by iFood | Ciência de Dados</i></p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/github/languages/top/eltonmorenocl/dio-oficina-desafio-mysql " alt="top-language"/>
-  <img src="https://img.shields.io/github/languages/count/eltonmorenocl/dio-oficina-desafio-mysql " alt="number-of-languages"/>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/eltonmorenocl/dio-oficina-desafio-mysql ">
-  <a href="https://github.com/eltonmorenocl/dio-oficina-desafio-mysql /commits/master">
+  <img src="https://img.shields.io/github/languages/top/eltonmorenocl/dio-oficina-desafio-mysql" alt="top-language"/>
+  <img src="https://img.shields.io/github/languages/count/eltonmorenocl/dio-oficina-desafio-mysql" alt="number-of-languages"/>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/eltonmorenocl/dio-oficina-desafio-mysql">
+  <a href="https://github.com/eltonmorenocl/dio-oficina-desafio-mysql/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonmorenocl/dio-oficina-desafio-mysql">
   </a>
 
